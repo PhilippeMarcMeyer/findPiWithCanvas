@@ -2,7 +2,7 @@
 
 
 function setup() {
- createCanvas(10000, 10000);
+ createCanvas(300, 300);
   background(90);
   noLoop();
 
@@ -12,11 +12,11 @@ function setup() {
 
 
 function draw() {
-	translate(5000,5000)
+	translate(150,150)
 	ellipseMode(CENTER); 
 	stroke(255,0,0);
 	fill(255,0,0); // Set fill to red
-	ellipse(0, 0, 10000)
+	ellipse(0, 0, 300)
 	 loadPixels();
 	let totalArea = pixels.length /4;
 	let circleArea = 0;
