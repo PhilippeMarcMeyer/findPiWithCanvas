@@ -9,4 +9,4 @@ egts : 3.14160188
 Which is a very poor approximation of PI
 Thats not a good method :-)
 
-![screen shot](https://raw.githubusercontent.com/PhilippeMarcMeyer/findPiWithCanvas/master/test.jpg)
+![screen shot](https://raw.githubusercontent.com/PhilippeMarcMeyer/findPiWithCanvas/master/test.png)
