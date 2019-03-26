@@ -6,5 +6,5 @@ and multiplying the ratio red / total pixels by 4
 
 egts : 3.14160188
 
-Whick is a very poor approximation of PI
+Which is a very poor approximation of PI
 Thats not a good method :-)
